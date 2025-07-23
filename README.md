@@ -1,16 +1,24 @@
-# ui_instagram
+# 📱 UI Instagram Clone
 
-A new Flutter project.
+This Flutter project is a simple replica of Instagram's main user interface. It includes essential features such as:
 
-## Getting Started
+- Bottom navigation bar  
+- Feed screen  
+- Story highlights  
+- User profile layout
 
-This project is a starting point for a Flutter application.
+## 🔧 Tech Stack
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 Key Learning Outcomes
+- Building complex UI layouts using Flutter widgets
+- Practicing responsive design
+- Working with navigation and layout structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 💡 Note
+This project focuses purely on UI — no backend or authentication functionality included.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+👩‍💻 Developed by Raha Shaqaqha
